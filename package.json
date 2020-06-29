@@ -22,7 +22,6 @@
     "bpmn-js": "^7.2.0",
     "bpmn-js-bpmnlint": "^0.15.0",
     "bpmnlint": "^6.4.0",
-    "core-js": "^3.6.5",
     "rxjs": "~6.5.4",
     "tslib": "^1.10.0",
     "zone.js": "~0.10.2"
